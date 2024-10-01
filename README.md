@@ -1,1 +1,1 @@
-# studynotion-mermn
+# StudyNotion Edtech Project
